@@ -16,6 +16,7 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
     <version.spring>5.2.6.RELEASE</version.spring>
     <version.jkube>1.0.0-SNAPSHOT</version.jkube>
+    <jkube.enricher.jkube-service.type>NodePort</jkube.enricher.jkube-service.type>
   </properties>
 
   <dependencies>
